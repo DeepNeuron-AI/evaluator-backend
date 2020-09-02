@@ -6,5 +6,6 @@ To run the server, run app.py, which creates the Flask instance (or use "flask r
 Variables for configuration are in config.py
 The endpoints of the application are defined in endpoints.py
 
-For Flask reference: https://github.com/atbaker/flask-tutorial
-https://github.com/briancappello/flask-react-spa/blob/master/backend/config.example.py
+For Flask reference: 
+- https://github.com/atbaker/flask-tutorial
+- https://github.com/briancappello/flask-react-spa/blob/master/backend/config.example.py
